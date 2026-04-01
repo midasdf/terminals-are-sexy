@@ -136,6 +136,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
+* [zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in pure Zig.
 
 **[⬆ back to top](#table-of-contents)**
 
