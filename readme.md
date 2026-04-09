@@ -328,3 +328,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
 
 Pull requests might be kept open if it hasn't been decided whether additions are *sexy* enough.
+
+## Disclaimer
+This project uses AI-generated code (LLM). I do my best to review and test it, but I can't guarantee it's perfect. Please use it at your own risk.\n
